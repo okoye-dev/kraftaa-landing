@@ -1,17 +1,22 @@
-Kraftaa Landing is built with NextJs 15
+### Kraftaa Landing is built with NextJs 15
 
 ## Getting Started
 
-First, run the development server:
+First, to install dependencies, run
+
+```bash
+npm install
+# or
+yarn
+
+```
+
+Then, you can run the development server:
 
 ```bash
 npm run dev
 # or
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000)
