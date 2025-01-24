@@ -10,8 +10,8 @@ type DownloadOptions = { store: string; button: StaticImport };
 
 const links: Links[] = [
   { name: "Home", href: "/" },
-  { name: "Services", href: "/" },
-  { name: "Top Clients", href: "/" },
+  { name: "Services", href: "/services" },
+  { name: "Top Clients", href: "/top-clients" },
 ];
 
 const footerLinks: Links[] = [

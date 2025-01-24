@@ -31,7 +31,7 @@ export const NavMenu = ({ links, isOpen, pathname }: NavMenuProps) => {
               return (
                 <li key={link.name} className="overflow-hidden">
                   <Link
-                    href={link.href}
+                    href={"/"}
                     className={`group flex items-center px-4 py-4 font-semibold duration-500 hover:bg-green-light/40 ${
                       isActive ? "text-purple" : "text-darkblue/60"
                     }`}
