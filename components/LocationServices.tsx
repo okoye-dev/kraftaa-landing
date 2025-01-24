@@ -10,7 +10,7 @@ import {
 import Image from "next/image";
 import booked from "@/assets/svgs/booked.svg";
 import busyRoad from "@/assets/images/busy-road2.png";
-import pattern from "@/assets/images/Pattern.png";
+import pattern from "@/assets/images/pattern.png";
 
 const LocationServices: FC = () => (
   <motion.section

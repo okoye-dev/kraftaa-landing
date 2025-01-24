@@ -4,7 +4,7 @@ import Image from "next/image";
 import heroLogo from "@/assets/images/hero-logo.png";
 import circleBg from "@/assets/images/circle.png";
 import location from "@/assets/svgs/location.svg";
-import pattern from "@/assets/images/Pattern.png";
+import pattern from "@/assets/images/pattern.png";
 import clippers from "@/assets/svgs/clippers.svg";
 import Navbar from "./Navbar";
 
